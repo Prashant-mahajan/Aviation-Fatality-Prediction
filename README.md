@@ -1,4 +1,4 @@
-<h1 align='center'>Aviation-Prediction</h1>  
+<h1 align='center'>Aviation-Fatality-Prediction</h1>  
   
 > This repository is a Final Year curriculum project for Bachelor of Engineering.  
   
